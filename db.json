@@ -1,0 +1,100 @@
+{
+  "contact": [
+    {
+      "name": "Cebrail Çelik",
+      "positon": "Frontend Developer",
+      "company": "Udemig",
+      "phone": "+90 555 666 77 51",
+      "email": "cebrailcelik@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Ece Yılmaz",
+      "positon": "Backend Developer",
+      "company": "Udemig",
+      "phone": "+90 533 444 88 77",
+      "email": "eceyilmaz@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Ali Kaya",
+      "positon": "Full Stack Developer",
+      "company": "TechCorp",
+      "phone": "+90 541 222 33 33",
+      "email": "alikaya@techcorp.com",
+      "id": 3
+    },
+    {
+      "name": "Zeynep Demir",
+      "positon": "UI/UX Designer",
+      "company": "Designify",
+      "phone": "+90 555 888 99 00",
+      "email": "zeynepdemir@designify.com",
+      "id": 4
+    },
+    {
+      "name": "Mert Akın",
+      "positon": "DevOps Engineer",
+      "company": "Cloudify",
+      "phone": "+90 530 123 45 67",
+      "email": "mertakin@cloudify.com",
+      "id": 5
+    },
+    {
+      "name": "Aslı Erdem",
+      "positon": "Data Scientist",
+      "company": "DataWorks",
+      "phone": "+90 555 987 65 43",
+      "email": "aslierdem@dataworks.com",
+      "id": 6
+    },
+    {
+      "name": "Burak Özkan",
+      "positon": "Machine Learning Engineer",
+      "company": "AIHub",
+      "phone": "+90 532 654 32 10",
+      "email": "burakozkan@aihub.com",
+      "id": 7
+    },
+    {
+      "name": "Elif Şahin",
+      "positon": "Mobile Developer",
+      "company": "Appify",
+      "phone": "+90 534 876 54 32",
+      "email": "elifsahin@appify.com",
+      "id": 8
+    },
+    {
+      "name": "Can Çelik",
+      "positon": "Cybersecurity Specialist",
+      "company": "SecureNet",
+      "phone": "+90 555 432 10 98",
+      "email": "cancelik@securenet.com",
+      "id": 9
+    },
+    {
+      "name": "Ali Tümer",
+      "positon": "Software Developer",
+      "company": "Getir",
+      "phone": "+90 111 222 12 00",
+      "email": "alitumer1@getir.com",
+      "id": 1733850995594
+    },
+    {
+      "name": "Ayla Boz",
+      "positon": "Devops",
+      "company": "TechNow",
+      "phone": "+09 123 123 12 23",
+      "email": "aylaboz@technow.com",
+      "id": 1733853477766
+    },
+    {
+      "name": "Veli Türkmen",
+      "positon": "Software Developer",
+      "company": "Getir",
+      "phone": "+90 345 456 67 98",
+      "email": "veliturkmen@getir.com",
+      "id": 1733909709761
+    }
+  ]
+}
